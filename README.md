@@ -2,6 +2,7 @@
 <html lang="zh">
 <head>
     <meta charset="UTF-8">
+    <title>动态主页</title>
     <style>
       /* 全局黑色背景 */
       body {
