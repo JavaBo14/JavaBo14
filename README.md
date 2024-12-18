@@ -1,5 +1,5 @@
 <!-- 动态字 -->
-
+<body bgcolor="black">
 <!--<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=留下来一起生活。&center=true&size=30"> </h1>-->
 <div align="center">
   <h1>越努力，越幸运 ^_^</h1>
@@ -83,3 +83,4 @@
 <br/>
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
+</body>
